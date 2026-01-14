@@ -311,7 +311,7 @@ const InsuranceAssessment = () => {
               onClick={() => setStep(step - 1)}
               className="text-indigo-600 hover:text-indigo-700 font-medium"
             >
-              ← Back
+              Back
             </button>
           )}
         </div>
